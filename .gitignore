@@ -1,0 +1,152 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment files
+venv/
+env/
+.venv/
+ENV/
+.env/
+.virtualenv/
+pythonenv*
+
+# Environment-specific files
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+.pytest_cache/
+nosetests.xml
+coverage.xml
+*.cover
+*.html
+*.log
+junit/test-*.xml
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# IDE specific files
+.vscode/
+.idea/
+.DS_Store
+*.swp
+*.swo
+
+# Sublime Text
+*.sublime-workspace
+
+# Database files
+*.db
+*.sqlite
+
+# Log files and directories
+*.log
+logs/
+
+# Local development
+local_settings.py
+docker-compose.override.yml
+
+# Documentation
+docs/_build/
+docs/_static/
+docs/_templates/
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# PyCharm
+.idea/
+
+# Vim
+*.swp
+*.swo
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# Poetry
+poetry.lock
+
+# Pipfile
+Pipfile.lock
+
+# pyenv
+.python-version
+
+# celery
+celerybeat-schedule
+celerybeat.pid
+
+# SageMath parsed files
+*.sage.py
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# mkdocs documentation
+/site
+
+# Optional npm package lock
+package-lock.json
